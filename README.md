@@ -1,8 +1,8 @@
-# # 🍽️ Recipe Finder
+#  🍽️ Recipe Finder
 
 Recipe Finder is a recipe search web app designed to help users find meals quickly by name and view useful details such as category, cuisine, and cooking instructions.
 
-# # ✨ Features
+# ✨ Features
 
 - Search recipes by name
 - Display recipe cards with images
@@ -10,14 +10,14 @@ Recipe Finder is a recipe search web app designed to help users find meals quick
 - View instructions for each recipe
 - Simple and responsive layout
 
-# # 🛠️ Technologies
+#  🛠️ Technologies
 
 - HTML
 - CSS
 - JavaScript
 - TheMealDB API
 
-# # 🚀 Getting Started
+#  🚀 Getting Started
 
 ```bash
 git clone https://github.com/your-username/Recipe_Finder.git
@@ -25,11 +25,11 @@ git clone https://github.com/your-username/Recipe_Finder.git
 
 Open the project folder and launch `index.html` in a web browser.
 
-# # 🎯 Purpose
+#  🎯 Purpose
 
 The project was developed to strengthen front-end development skills by working with API data, DOM manipulation, and UI design.
 
-# # 👤 Author
+#  👤 Author
 
 **Tanisha Thakur**
 
